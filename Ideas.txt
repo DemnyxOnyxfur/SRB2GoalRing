@@ -1,0 +1,14 @@
+// Ideas for Future Reference \\
+//    Hey there, sneaky ;3c   \\
+
+# Goal Rings #
+- Advance 3
+- Rush
+
+# Other #
+- Power Star
+- Shine Sprite
+- Grand Star for boss stages?
+
+# Code #
+- Change dispoffset based on sign.angle for Software players
